@@ -29,7 +29,7 @@ setInterval(() => {
       dhour.innerText = `${htime}`;
       dmin.innerText = `${mtime}`;
       dsec.innerText = `${stime}`;
-}, 1000);
+}, 1);
 setInterval(() => {
       var dot1 = document.getElementById("dots1");
       var dot2 = document.getElementById("dots2");
