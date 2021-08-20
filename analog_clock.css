@@ -88,6 +88,7 @@
 }
 .d_clock{
        width: 100%;
+       font-size: 2vw;
        text-align: center;
        margin: auto;
        color: white;
